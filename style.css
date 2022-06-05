@@ -1,0 +1,30 @@
+body{
+    background-color:white;
+    text-align: center;
+    margin: 13% 13% 13% 13%;
+}
+.search-bar{
+    background-color: rgba(238, 231, 231, 0.7);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+div.search-bar p{
+    font-size: 18px;
+}
+.btn{
+    font-size: 14px;
+}
+div.bottom-bar1{
+    background-color:rgba(44, 209, 201, 0.616);
+}
+div.bottom-bar2{
+    background-color:rgba(32, 187, 179, 0.74);
+    
+}
+div.bottom-bar3{
+    background-color:rgba(29, 168, 161, 0.658);
+    
+}
+footer{
+    font-size: 13.5px;
+}
