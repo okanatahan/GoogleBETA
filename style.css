@@ -1,34 +1,63 @@
 body{
     background-color:white;
-    text-align: center;
-    margin: 13% 13% 13% 13%;
+    margin: 0;
+    padding: 0;
     font-family: 'Times New Roman', Times, serif;
+}
+.photo{
+    margin-top: 100px;
+    text-align: center;
+}
+.container{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .search-bar{
     background-color: #EEEEEE;
-    margin-left: 5%;
-    margin-right: 5%;
-}
-div.search-bar p{
     font-size: 17px;
+    padding-left: 500px;
 }
-.search-bar2{
-    width: 350px;
+.search-bar-input{
+    margin-left: -70px;
+    width: 340px;
 }
 .btn{
     font-size: 14px;
 }
-div.box1{
+#google-search{
+    margin-left: -15px;
+}
+#feeling-lucky{
+    margin-left: auto;
+}
+.boxes{
+    margin-top: 2px;
+}
+.box1{
     background-color:rgba(44, 209, 201, 0.616);
+    float: left;
+    text-align: center;
+    font-size: 18px;
+    padding: 11px 170px 11px 170px;
 }
-div.box2{
+.box2{
     background-color:rgba(32, 187, 179, 0.74);
-    
+    float: left;
+    text-align: center;
+    margin-left: 2px;
+    padding: 6px 68px 7px 68px;
 }
-div.box3{
+.box3{
     background-color:rgba(29, 168, 161, 0.658);
-    
+    float: left;
+    text-align: center;
+    margin-left: 2px;
+    padding: 2px 162px 1px 163px;
+    height: 82px;
 }
-footer{
+footer {
+    text-align: center;
     font-size: 13.5px;
+    padding-top: 90px;
 }
